@@ -6,7 +6,9 @@
 + http://www.fj365.ml/tv/  
 + http://fj365.gitee.io/cmp4/tv/
 
-* TV端自建CDN接口地址: 
+* TV端自建CDN接口地址: (2022/5/20更新)
++ https://fastly.jsdelivr.net/gh/tvboxep/CMP4@master/tv/
++ https://fastly.jsdelivr.net/gh/artxia/FreedTV/
 + https://cdn.jsdelivr.net/gh/fj365/CMP4@master/tv/
 <hr>
 
