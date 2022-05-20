@@ -85,6 +85,7 @@ https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json
  </details>
 
 * TV端自建CDN接口地址:  
++ https://raw.fastgit.org/tvboxep/CMP4/master/m.json  (2022/5/20)
 + https://raw.fastgit.org/fj365/CMP4/master/m.json
 + https://cdn.jsdelivr.net/gh/fj365/CMP4@master/m.json
 <hr>
@@ -110,6 +111,8 @@ https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json
 </details>
 
 * TV端自建CDN接口地址: 
++
+
 + https://raw.fastgit.org/fj365/CMP4/master/c.json
 + https://cdn.jsdelivr.net/gh/fj365/CMP4@master/c.json
 <hr>
